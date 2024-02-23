@@ -33,11 +33,6 @@ jobs:
         do
           helm3 package -u ./stable/$CHART
         done
-    - name: Configure AWS credentials
-      uses: aws-actions/configure-aws-credentials@v4
-      with:
-        role-to-assume: arn:aws:iam::177865682799:role/GitHubActionsHelmRepo
-        aws-region: eu-central-1
     - name: Index
       run: |
         helm3 repo index . --url https://arvatoaws-labs.github.io/helm-repo/ --merge index.yaml
