@@ -3,169 +3,169 @@ entries:
   alertmanager-sns-forwarder:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.097304+01:00"
+    created: "2024-02-23T11:04:49.884332+01:00"
     description: A Helm chart for Kubernetes
     digest: 1182ab253f112c87c8fe6f3a805ea3104a8fa72f1ea76b5c581768398f6d13e3
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.17.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.097022+01:00"
+    created: "2024-02-23T11:04:49.884145+01:00"
     description: A Helm chart for Kubernetes
     digest: 47a9c69285d8b9d18893afa788eb7ce7509c131c9f46f0811d6abba5ebbc1802
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.16.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.096758+01:00"
+    created: "2024-02-23T11:04:49.883894+01:00"
     description: A Helm chart for Kubernetes
     digest: d7504c26dd179aa076a5c15c1ace5f6190ce08f465088c7fe2556137acc1a1a2
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.15.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.096482+01:00"
+    created: "2024-02-23T11:04:49.883669+01:00"
     description: A Helm chart for Kubernetes
     digest: 82cd50a5c8c611c61d6b42b0a81f128abfa1f2ce6a98117b1f8654a65d2740f7
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.14.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.14.tgz
     version: 0.1.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.09606+01:00"
+    created: "2024-02-23T11:04:49.883469+01:00"
     description: A Helm chart for Kubernetes
     digest: b8a24c5731b9dfa974ccbf09f00a70180d7b0638a30d69f9d90455406bf4ffd6
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.13.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.095692+01:00"
+    created: "2024-02-23T11:04:49.883259+01:00"
     description: A Helm chart for Kubernetes
     digest: 6083fab1f2b78bfedd227171b72b976b5cb54117858aa943fa9ebda2fa672d9b
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.12.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.095366+01:00"
+    created: "2024-02-23T11:04:49.883021+01:00"
     description: A Helm chart for Kubernetes
     digest: 9e8fa17b0ff15238a4ceb809db1748fef43c27f92224c0f0837ec718c0264413
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.11.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.095047+01:00"
+    created: "2024-02-23T11:04:49.882628+01:00"
     description: A Helm chart for Kubernetes
     digest: fb6c1329bc3a278eaf99f008ad46142e46207e99c3c9508b69f7a2b975e907d6
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.10.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.101969+01:00"
+    created: "2024-02-23T11:04:49.887052+01:00"
     description: A Helm chart for Kubernetes
     digest: f4302b27cc8ff9dfb2a5f7423e3be55ba70d54ebe1ee1c6baca57cf1f541fdc0
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.9.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.101605+01:00"
+    created: "2024-02-23T11:04:49.886726+01:00"
     description: A Helm chart for Kubernetes
     digest: 44244e981908f125fb86852a4cc97b4830561a93d0d235c5229e1df9dccca119
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.8.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.101313+01:00"
+    created: "2024-02-23T11:04:49.885441+01:00"
     description: A Helm chart for Kubernetes
     digest: 138d9fc70a4965af70268b55a45172b60fe51b02ce080703f4868839b583658c
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.7.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.100962+01:00"
+    created: "2024-02-23T11:04:49.885234+01:00"
     description: A Helm chart for Kubernetes
     digest: 5dbf78ffb163c0c67ceab16976db9b5a4063bf31d7f7ac0b10384fbe3564c778
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.6.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.100316+01:00"
+    created: "2024-02-23T11:04:49.88503+01:00"
     description: A Helm chart for Kubernetes
     digest: ae2340648edd9d9ef4838441fbdd270510574d2da11e09c678ce6504764323ee
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.5.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.09814+01:00"
+    created: "2024-02-23T11:04:49.884773+01:00"
     description: A Helm chart for Kubernetes
     digest: 77c31f7e5a4d2484d45db645db784d523824ef46b724bc2f8208a176da64e23f
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.097852+01:00"
+    created: "2024-02-23T11:04:49.884554+01:00"
     description: A Helm chart for Kubernetes
     digest: b401beb7267361e28fc4c2ff78df4fb66c7f0d1b0196d0b7535eb56fb0a59d3e
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.3.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.094644+01:00"
+    created: "2024-02-23T11:04:49.88212+01:00"
     description: A Helm chart for Kubernetes
     digest: c434559d4c9bcd13506f046ff5ff2c00cef2c571c2c070f958b0ccb6fce25dba
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.094289+01:00"
+    created: "2024-02-23T11:04:49.881764+01:00"
     description: A Helm chart for Kubernetes
     digest: b591c1667c178d5630c486cb4f8be469f43f5a1514773b0fd614926af9427dad
     name: alertmanager-sns-forwarder
     urls:
-    - https://helm-repo.aws-arvato.com/alertmanager-sns-forwarder-0.1.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/alertmanager-sns-forwarder-0.1.0.tgz
     version: 0.1.0
   argosinterface:
   - apiVersion: v1
-    created: "2024-02-23T11:03:09.105122+01:00"
+    created: "2024-02-23T11:04:49.889735+01:00"
     description: interface to send events to argos
     digest: 5aee7c4f71f01606847bdbbc91942cd9381b021399f157379f975662c51bcf62
     icon: https://argos.ws.arvato-systems.de/cs-nti-gui/javax.faces.resource/images/favicon.ico.xhtml
     name: argosinterface
     urls:
-    - https://helm-repo.aws-arvato.com/argosinterface-0.0.7.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/argosinterface-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
-    created: "2024-02-23T11:03:09.10427+01:00"
+    created: "2024-02-23T11:04:49.888963+01:00"
     description: interface to send events to argos
     digest: dfd50127f9398ac450311f0e371b6668a4493d769d0fc86b8cb33e437bcb5003
     icon: https://argos.ws.arvato-systems.de/cs-nti-gui/javax.faces.resource/images/favicon.ico.xhtml
@@ -174,10 +174,10 @@ entries:
       name: Peter Hoppe
     name: argosinterface
     urls:
-    - https://helm-repo.aws-arvato.com/argosinterface-0.0.6.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/argosinterface-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: "2024-02-23T11:03:09.103397+01:00"
+    created: "2024-02-23T11:04:49.888282+01:00"
     description: interface to send events to argos
     digest: 2ac4da12f04d1804ee59ee3c549e58a428164d2103b29665f49ca783a931ef44
     icon: https://argos.ws.arvato-systems.de/cs-nti-gui/javax.faces.resource/images/favicon.ico.xhtml
@@ -186,10 +186,10 @@ entries:
       name: Peter Hoppe
     name: argosinterface
     urls:
-    - https://helm-repo.aws-arvato.com/argosinterface-0.0.5.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/argosinterface-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: "2024-02-23T11:03:09.102665+01:00"
+    created: "2024-02-23T11:04:49.887676+01:00"
     description: interface to send events to argos
     digest: 6a3982f689b1d099b23f9a11ef2759bbd15e570b1f6ea1a44853b387bec3173e
     icon: https://argos.ws.arvato-systems.de/cs-nti-gui/javax.faces.resource/images/favicon.ico.xhtml
@@ -198,1670 +198,1670 @@ entries:
       name: Peter Hoppe
     name: argosinterface
     urls:
-    - https://helm-repo.aws-arvato.com/argosinterface-0.0.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/argosinterface-0.0.4.tgz
     version: 0.0.4
   conti-glue:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.105471+01:00"
+    created: "2024-02-23T11:04:49.889996+01:00"
     description: A Helm chart for Kubernetes
     digest: 6bfbf0d72bade7dae36021acc92dfa416a8370bb8b89e64c76517d3c18919ee2
     name: conti-glue
     urls:
-    - https://helm-repo.aws-arvato.com/conti-glue-0.0.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/conti-glue-0.0.1.tgz
     version: 0.0.1
   conti-yves:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.105806+01:00"
+    created: "2024-02-23T11:04:49.890227+01:00"
     description: A Helm chart for Kubernetes
     digest: 8efbd1dbc570e21d2fae1610f982b0d35b1c1d0aa8a4c8aac7502f2714e39dff
     name: conti-yves
     urls:
-    - https://helm-repo.aws-arvato.com/conti-yves-0.0.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/conti-yves-0.0.1.tgz
     version: 0.0.1
   conti-zed:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.106032+01:00"
+    created: "2024-02-23T11:04:49.890434+01:00"
     description: A Helm chart for Kubernetes
     digest: d98fbba9a558c5968934e3b7cccc78af9c6c4c2e705ad2b6a890a7df2ddbfda7
     name: conti-zed
     urls:
-    - https://helm-repo.aws-arvato.com/conti-zed-0.0.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/conti-zed-0.0.1.tgz
     version: 0.0.1
   glue:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.106276+01:00"
+    created: "2024-02-23T11:04:49.890678+01:00"
     description: A Helm chart for Kubernetes
     digest: 018895715d7de1e8d95a0f2cd246b470c0d1a6ca01600d2dd0c1713a01d2f525
     name: glue
     urls:
-    - https://helm-repo.aws-arvato.com/glue-0.0.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/glue-0.0.1.tgz
     version: 0.0.1
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-23T11:03:09.246588+01:00"
+    created: "2024-02-23T11:04:50.055677+01:00"
     description: A Helm chart for Kubernetes
     digest: 38f2ca7af9c71497d790724afc5e8c3ff9db6b511b5deb6be902a4c3b48f6e4e
     name: helm-chart-test
     type: application
     urls:
-    - https://helm-repo.aws-arvato.com/helm-chart-sources/helm-chart-test-0.1.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/helm-chart-sources/helm-chart-test-0.1.0.tgz
     version: 0.1.0
   lamp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-23T11:03:09.10833+01:00"
+    created: "2024-02-23T11:04:49.892675+01:00"
     description: A Helm chart for Kubernetes
     digest: 5950280ac3459829c7da38b8a5f4e7129c07a46741f84d2f4b0240176a33d3a9
     name: lamp
     type: application
     urls:
-    - https://helm-repo.aws-arvato.com/lamp-0.1.5.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/lamp-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-23T11:03:09.10794+01:00"
+    created: "2024-02-23T11:04:49.892443+01:00"
     description: A Helm chart for Kubernetes
     digest: e9230346e72ad8eabdaef72fc7378a057213036bdd26f9c45a8e8291cfbcaac4
     name: lamp
     type: application
     urls:
-    - https://helm-repo.aws-arvato.com/lamp-0.1.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/lamp-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-23T11:03:09.107662+01:00"
+    created: "2024-02-23T11:04:49.892205+01:00"
     description: A Helm chart for Kubernetes
     digest: ec1718e0caccf608e66b23d04e4b361f3d8626dddebd38d7b131eb32464d669e
     name: lamp
     type: application
     urls:
-    - https://helm-repo.aws-arvato.com/lamp-0.1.3.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/lamp-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-23T11:03:09.107167+01:00"
+    created: "2024-02-23T11:04:49.891701+01:00"
     description: A Helm chart for Kubernetes
     digest: 20e43aa923748452b35ce08415b61bca26090ff81ec863661e0ace46f773ab0c
     name: lamp
     type: application
     urls:
-    - https://helm-repo.aws-arvato.com/lamp-0.1.2.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/lamp-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-23T11:03:09.106834+01:00"
+    created: "2024-02-23T11:04:49.891341+01:00"
     description: A Helm chart for Kubernetes
     digest: d30269a88e3d0bd1aba290259227cf274b44a278c525795fd52ca2630e03b9ab
     name: lamp
     type: application
     urls:
-    - https://helm-repo.aws-arvato.com/lamp-0.1.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/lamp-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-23T11:03:09.106554+01:00"
+    created: "2024-02-23T11:04:49.890955+01:00"
     description: A Helm chart for Kubernetes
     digest: c11274547a009d4a1ad1d2ecc7352cdf9765444c34866ee34ba57be3ef37fd02
     name: lamp
     type: application
     urls:
-    - https://helm-repo.aws-arvato.com/lamp-0.1.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/lamp-0.1.0.tgz
     version: 0.1.0
   wordpress:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.158996+01:00"
+    created: "2024-02-23T11:04:49.949005+01:00"
     description: A Helm chart for Kubernetes
     digest: 9c33f57296aef52c09912f5854e51e30f72a5193b7c85bf02766ddae3f81f96d
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.5.5.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.5.5.tgz
     version: 0.5.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.158165+01:00"
+    created: "2024-02-23T11:04:49.948129+01:00"
     description: A Helm chart for Kubernetes
     digest: b85fdabaeba7c01e7e46ea217f580d639f47193a1dcc4b2fc1ee064a2bc8ecb3
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.5.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.5.4.tgz
     version: 0.5.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.157306+01:00"
+    created: "2024-02-23T11:04:49.947242+01:00"
     description: A Helm chart for Kubernetes
     digest: 459abedbf1a94366dbaff3ed14071ce966e67d50e9627dc82eb1ff6b19e3b17d
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.5.3.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.5.3.tgz
     version: 0.5.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.156403+01:00"
+    created: "2024-02-23T11:04:49.946242+01:00"
     description: A Helm chart for Kubernetes
     digest: 0b52d096c888142e0eb3aff12e08f883b1adfa33d8cc934985168c4fa65ca5dc
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.5.2.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.5.2.tgz
     version: 0.5.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.155426+01:00"
+    created: "2024-02-23T11:04:49.945298+01:00"
     description: A Helm chart for Kubernetes
     digest: 6fe80cdc6e083ec6f2a09cf30b7db301b7524a1477013e34e371261513877af1
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.5.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.154513+01:00"
+    created: "2024-02-23T11:04:49.944326+01:00"
     description: A Helm chart for Kubernetes
     digest: 3edaf239cb67a85936b3136f79e83eea9a1152b5b11a396748f23fd3971394d5
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.5.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.153133+01:00"
+    created: "2024-02-23T11:04:49.94332+01:00"
     description: A Helm chart for Kubernetes
     digest: 37be27f42edd215ba485d0df7373bce6a3919e3f07a7cfef02b2c997889399f5
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.4.6.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.4.6.tgz
     version: 0.4.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.152379+01:00"
+    created: "2024-02-23T11:04:49.942415+01:00"
     description: A Helm chart for Kubernetes
     digest: eafab21fd7792e824d75eb55d382e32f87884636d242168e147995adaae4be1b
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.4.5.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.4.5.tgz
     version: 0.4.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.151615+01:00"
+    created: "2024-02-23T11:04:49.940732+01:00"
     description: A Helm chart for Kubernetes
     digest: 940558ac1c9c82ad2aa4df06f15c96abf4400fc08ea910201429b7b7f0ca8903
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.4.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.15085+01:00"
+    created: "2024-02-23T11:04:49.939834+01:00"
     description: A Helm chart for Kubernetes
     digest: 444952b1fc99c186b017c41fc223fe298b75e5f324803c10b5208cddc67136ee
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.4.3.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.149869+01:00"
+    created: "2024-02-23T11:04:49.938625+01:00"
     description: A Helm chart for Kubernetes
     digest: 81eb473327a23be93aaf732fdc331534fac157657433d232b88594afa6664b3c
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.4.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.149107+01:00"
+    created: "2024-02-23T11:04:49.937707+01:00"
     description: A Helm chart for Kubernetes
     digest: bc14d5747a34a5f6d2ecd37cc5c3439a1d7715c1ebe65552dc479be5e79a22f9
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.4.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.144462+01:00"
+    created: "2024-02-23T11:04:49.931929+01:00"
     description: A Helm chart for Kubernetes
     digest: 585b728f6d02a318b965e98f83485e43b5855fd42a64b4cd0f569d82c215a658
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.38.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.38.tgz
     version: 0.3.38
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.14372+01:00"
+    created: "2024-02-23T11:04:49.93097+01:00"
     description: A Helm chart for Kubernetes
     digest: 96ff103d20bef7d24178a7d24a4bfe39393793bf9dc8421b6c9cbe68de9f1944
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.37.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.37.tgz
     version: 0.3.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.142941+01:00"
+    created: "2024-02-23T11:04:49.930121+01:00"
     description: A Helm chart for Kubernetes
     digest: be378c5ea3c7a0b5bc255a39ad08319436fffe51149a24ce1a70af205e4d1eb6
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.36.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.36.tgz
     version: 0.3.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.141873+01:00"
+    created: "2024-02-23T11:04:49.929282+01:00"
     description: A Helm chart for Kubernetes
     digest: 2fbe632751d8f2b5d4154c4ba82d7a604f36059d105787cd06b8760be3df8c89
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.35.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.35.tgz
     version: 0.3.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.140593+01:00"
+    created: "2024-02-23T11:04:49.928458+01:00"
     description: A Helm chart for Kubernetes
     digest: e3f0737ec7f2835d81d35bdd91aa10d128b4cfafd04e2e2b0c45804360f69119
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.34.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.34.tgz
     version: 0.3.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.139817+01:00"
+    created: "2024-02-23T11:04:49.927654+01:00"
     description: A Helm chart for Kubernetes
     digest: b07dbbdcbaf59aad632331f8927d9ba94b10a1485e6b2708797e5d610e71a252
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.33.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.33.tgz
     version: 0.3.33
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.139042+01:00"
+    created: "2024-02-23T11:04:49.926807+01:00"
     description: A Helm chart for Kubernetes
     digest: 3de55f62c792985c5db1e6c03753235dc2bb080151e060da8053918ad5b5054b
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.32.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.32.tgz
     version: 0.3.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.138324+01:00"
+    created: "2024-02-23T11:04:49.92479+01:00"
     description: A Helm chart for Kubernetes
     digest: 3d4146815b7c8a028f584fa2e780a9fd4ca7e1b9dad6ecd71059f25f1be10bcf
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.31.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.31.tgz
     version: 0.3.31
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.137597+01:00"
+    created: "2024-02-23T11:04:49.923881+01:00"
     description: A Helm chart for Kubernetes
     digest: d4e04df43b3ab3948d29a7d11d7189ff40fc78bdd2ca7068fc37a92e2584200c
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.30.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.30.tgz
     version: 0.3.30
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.136145+01:00"
+    created: "2024-02-23T11:04:49.921994+01:00"
     description: A Helm chart for Kubernetes
     digest: 4fc59221dbc90e9ea3bb57727ca1aa5e684bc63811837a7e3dc1c5403b28354a
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.29.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.29.tgz
     version: 0.3.29
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.134644+01:00"
+    created: "2024-02-23T11:04:49.920933+01:00"
     description: A Helm chart for Kubernetes
     digest: 71da816801b9e295d131853ca293ef067a0fb168e8857318340c0a53293e700c
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.28.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.28.tgz
     version: 0.3.28
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.133871+01:00"
+    created: "2024-02-23T11:04:49.919823+01:00"
     description: A Helm chart for Kubernetes
     digest: b053a510ee5f2261f4e400da3d5afcd1d770fc20105718a5cc57d3721ddc2581
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.27.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.27.tgz
     version: 0.3.27
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.133107+01:00"
+    created: "2024-02-23T11:04:49.91903+01:00"
     description: A Helm chart for Kubernetes
     digest: 9b7700ac95dbddf1c20ac24e8693f63b7d178a1d075e51d006ff99db5c04f147
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.26.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.26.tgz
     version: 0.3.26
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.132364+01:00"
+    created: "2024-02-23T11:04:49.918217+01:00"
     description: A Helm chart for Kubernetes
     digest: d6d34d41e3d67c4f096e4057a2a156f83e3ba8127bc3580b6b334629cdaed468
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.25.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.25.tgz
     version: 0.3.25
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.131616+01:00"
+    created: "2024-02-23T11:04:49.917104+01:00"
     description: A Helm chart for Kubernetes
     digest: dec499b751caa4efb0fe47c5f108049fbc7bcb01ef3d2c1bfc73d93416fb7181
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.24.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.24.tgz
     version: 0.3.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.130875+01:00"
+    created: "2024-02-23T11:04:49.916213+01:00"
     description: A Helm chart for Kubernetes
     digest: 9f0c8603fff5c03c9aff1a153b50eb7dbed0860f03b492e5d456dac7cd33ddf6
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.23.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.23.tgz
     version: 0.3.23
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.130095+01:00"
+    created: "2024-02-23T11:04:49.91543+01:00"
     description: A Helm chart for Kubernetes
     digest: 4ce19748d2c4ceb960b00af9bd8117ba3b9bd0176a750ba7c16a8d2d48b0c726
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.22.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.22.tgz
     version: 0.3.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.129277+01:00"
+    created: "2024-02-23T11:04:49.914649+01:00"
     description: A Helm chart for Kubernetes
     digest: cff2286529820901a29f66bd14ccd92eeac226e912d0f60b9368ff4916e4b6e8
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.21.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.21.tgz
     version: 0.3.21
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.127891+01:00"
+    created: "2024-02-23T11:04:49.913905+01:00"
     description: A Helm chart for Kubernetes
     digest: 75c28988074d66c3481b368bda2be1bc22f1841f59cab1877d124995770e62fa
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.20.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.20.tgz
     version: 0.3.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.126495+01:00"
+    created: "2024-02-23T11:04:49.912322+01:00"
     description: A Helm chart for Kubernetes
     digest: 265bab66e909d614ed3586edd3b672948f5159be8835be40c16b8680a71fd5aa
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.19.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.19.tgz
     version: 0.3.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.125777+01:00"
+    created: "2024-02-23T11:04:49.911501+01:00"
     description: A Helm chart for Kubernetes
     digest: 3bb946b3bf34821bb78ba995f4c9144a2d32d7cac8e4bcda0e689f6926126977
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.18.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.18.tgz
     version: 0.3.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.125021+01:00"
+    created: "2024-02-23T11:04:49.90974+01:00"
     description: A Helm chart for Kubernetes
     digest: 23473f1c1582ce49ecfa7dc3d272634da469e76eb5833889c2bd1f95cc22def8
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.17.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.17.tgz
     version: 0.3.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.124016+01:00"
+    created: "2024-02-23T11:04:49.908772+01:00"
     description: A Helm chart for Kubernetes
     digest: f604c297d15dd65850f02a0b03373d633d31505e655b0b5c39c7d3c34f55af4d
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.16.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.16.tgz
     version: 0.3.16
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.123173+01:00"
+    created: "2024-02-23T11:04:49.908028+01:00"
     description: A Helm chart for Kubernetes
     digest: bf25c7073149eb605a07b9b53a41ffd4a43e87e996cdc58697157a271c951894
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.15.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.15.tgz
     version: 0.3.15
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.121021+01:00"
+    created: "2024-02-23T11:04:49.907281+01:00"
     description: A Helm chart for Kubernetes
     digest: 102b5fc193d165af6c651517e84955e659e72d3e95499bdc1480b904d890c00d
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.14.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.14.tgz
     version: 0.3.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.120296+01:00"
+    created: "2024-02-23T11:04:49.90649+01:00"
     description: A Helm chart for Kubernetes
     digest: e7b71b459589834288980df14c08db7b31a4c17b6c6e078d260881cf628be015
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.13.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.13.tgz
     version: 0.3.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.119606+01:00"
+    created: "2024-02-23T11:04:49.905724+01:00"
     description: A Helm chart for Kubernetes
     digest: 132949f4bc0b17689ec492d7e5e26d0b06310fb71aa96c0a2127a81026fd8413
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.11.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.11.tgz
     version: 0.3.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.118927+01:00"
+    created: "2024-02-23T11:04:49.90496+01:00"
     description: A Helm chart for Kubernetes
     digest: a845052019583457b7c5aeab6c2bfcb7585e8e4a53cd8af60e6f05cd38454679
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.10.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.10.tgz
     version: 0.3.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.148351+01:00"
+    created: "2024-02-23T11:04:49.93688+01:00"
     description: A Helm chart for Kubernetes
     digest: b0a9458c20f84be041445304a76a34cc08e6b1085459939f700f0084bcd2f422
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.9.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.9.tgz
     version: 0.3.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.147155+01:00"
+    created: "2024-02-23T11:04:49.936129+01:00"
     description: A Helm chart for Kubernetes
     digest: 680c7a3aa4f69d3011e6dd6a494191c562986612332009c8a05c26e37218d9b0
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.8.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.8.tgz
     version: 0.3.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.146486+01:00"
+    created: "2024-02-23T11:04:49.935379+01:00"
     description: A Helm chart for Kubernetes
     digest: 58351af35ae07e9cf2e542df84040ce3dcf3af45b3b1455aa89d04df1ebd6d75
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.7.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.7.tgz
     version: 0.3.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.145821+01:00"
+    created: "2024-02-23T11:04:49.934591+01:00"
     description: A Helm chart for Kubernetes
     digest: 0e25027021c2a6e5586dbf364219677aeb65cbd177449cee6b633e93bbdab11c
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.5.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.5.tgz
     version: 0.3.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.145156+01:00"
+    created: "2024-02-23T11:04:49.932659+01:00"
     description: A Helm chart for Kubernetes
     digest: 61d914fc51936ba775fecfa730528de11e16561243763f3c3a46f56ce735f4d7
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.4.tgz
     version: 0.3.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.136852+01:00"
+    created: "2024-02-23T11:04:49.922909+01:00"
     description: A Helm chart for Kubernetes
     digest: 4023fe2d9f890c54e0e30d38862877169143d385afbff7b666641a8d077e6843
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.3.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.3.tgz
     version: 0.3.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.127172+01:00"
+    created: "2024-02-23T11:04:49.913119+01:00"
     description: A Helm chart for Kubernetes
     digest: c97ab38a90de1ae02ef84d87a99ab9a11809c062cc6a3d79430d5ae736992c43
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.2.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.11823+01:00"
+    created: "2024-02-23T11:04:49.904013+01:00"
     description: A Helm chart for Kubernetes
     digest: 1cb25807e3dd238335d09532223b9263a3d9f0ef942b9a4706b42fbfb54f809a
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.117479+01:00"
+    created: "2024-02-23T11:04:49.901503+01:00"
     description: A Helm chart for Kubernetes
     digest: 45517d65a963491649260a8b7af6b8ffb863bee11657b59026e80ef71d5e7599
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.3.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.116619+01:00"
+    created: "2024-02-23T11:04:49.900766+01:00"
     description: A Helm chart for Kubernetes
     digest: 2f477beea81d901e98563410d1e6e10dd043bceea59beec65e9000fe6d9d8b44
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.8.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.8.tgz
     version: 0.2.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.115082+01:00"
+    created: "2024-02-23T11:04:49.899868+01:00"
     description: A Helm chart for Kubernetes
     digest: ebff1e9eacd7c9905eb47dedf41f7d6c19f00fc4a2a5cdaba51d27199d398628
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.7.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.7.tgz
     version: 0.2.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.114364+01:00"
+    created: "2024-02-23T11:04:49.89918+01:00"
     description: A Helm chart for Kubernetes
     digest: 2af694751139abb18798189de4878ab8d266d942ffbdf1773dd7dcf9989cd594
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.6.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.6.tgz
     version: 0.2.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.113697+01:00"
+    created: "2024-02-23T11:04:49.898426+01:00"
     description: A Helm chart for Kubernetes
     digest: 4f55c2484459ddd08cd4d624ce77ba2541ade8d1def8c25dcf446eac9c66df1d
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.11286+01:00"
+    created: "2024-02-23T11:04:49.897347+01:00"
     description: A Helm chart for Kubernetes
     digest: 7a3fd3f000f1de660e80c457b2d6a4e77171b070ec59c898de0dc064fa4d3bfa
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.3.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.111984+01:00"
+    created: "2024-02-23T11:04:49.896063+01:00"
     description: A Helm chart for Kubernetes
     digest: 53a2e5e83c6581d6899b75d033ac96dacc1edd85aec70fe2fe77ba1f6591f65b
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.2.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.111283+01:00"
+    created: "2024-02-23T11:04:49.89449+01:00"
     description: A Helm chart for Kubernetes
     digest: e82865561fbdd4a77fe5c41e972601852d07d9ecbb8deffc33c3ca080f974f4a
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.110384+01:00"
+    created: "2024-02-23T11:04:49.893645+01:00"
     description: A Helm chart for Kubernetes
     digest: b424802d1ff6f5b81c4dc4c8e407e6f5aa1f856e3ff65601c0ab89bf84b54eed
     name: wordpress
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-0.2.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-0.2.0.tgz
     version: 0.2.0
   wordpress-bedrock:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.181658+01:00"
+    created: "2024-02-23T11:04:49.975954+01:00"
     description: A Helm chart for Kubernetes
     digest: a786e190071410cd8e79e6403be07219ef31a6b79b6caaf3632b2a28684dcb52
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.121.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.121.tgz
     version: 0.1.121
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.180761+01:00"
+    created: "2024-02-23T11:04:49.975026+01:00"
     description: A Helm chart for Kubernetes
     digest: 2193c5bc09c2e674d3ec01bbf39ae06e55d2b4254f20ca108782d5c76a0c63cc
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.120.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.120.tgz
     version: 0.1.120
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.178916+01:00"
+    created: "2024-02-23T11:04:49.972503+01:00"
     description: A Helm chart for Kubernetes
     digest: fc42b62eb519c6e0bbd0c64f70831dbd5e50a592098c52e86b10bb7512831c1e
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.119.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.119.tgz
     version: 0.1.119
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.178069+01:00"
+    created: "2024-02-23T11:04:49.971542+01:00"
     description: A Helm chart for Kubernetes
     digest: eb2a9282b3cf9b91c65897480607f966e8cf8ae9c86d792e23db36c3ecb1a604
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.117.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.117.tgz
     version: 0.1.117
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.177159+01:00"
+    created: "2024-02-23T11:04:49.97048+01:00"
     description: A Helm chart for Kubernetes
     digest: b376fa29e05b68671c2de5592815b6445fcd2c4347ab2e91880471fec1a058ea
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.116.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.116.tgz
     version: 0.1.116
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.176282+01:00"
+    created: "2024-02-23T11:04:49.969416+01:00"
     description: A Helm chart for Kubernetes
     digest: 0e0ccb0cdfd886f061049ed0739602085ff2b34d8695cce8e4399ae50d968271
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.115.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.115.tgz
     version: 0.1.115
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.17533+01:00"
+    created: "2024-02-23T11:04:49.968484+01:00"
     description: A Helm chart for Kubernetes
     digest: 1272e7332c3da2d6537bb44401f239bf5bd8d0eb54a00cf29e65643360b5e16f
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.114.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.114.tgz
     version: 0.1.114
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.174408+01:00"
+    created: "2024-02-23T11:04:49.967537+01:00"
     description: A Helm chart for Kubernetes
     digest: f3e248218dbcca9f4967f25828bcb3f694c493a308d25e6f2ee18d0a54aaada3
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.113.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.113.tgz
     version: 0.1.113
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.173136+01:00"
+    created: "2024-02-23T11:04:49.965606+01:00"
     description: A Helm chart for Kubernetes
     digest: 2255f0b71e97356777ef8038e2edbdf5275d959ee8e95692201b483de49383a3
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.112.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.112.tgz
     version: 0.1.112
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.172306+01:00"
+    created: "2024-02-23T11:04:49.96453+01:00"
     description: A Helm chart for Kubernetes
     digest: 728a9e1129138648a23175997551bfc8341548ded9bf9a8f29d4df7a32bd43ca
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.110.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.110.tgz
     version: 0.1.110
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.170902+01:00"
+    created: "2024-02-23T11:04:49.962468+01:00"
     description: A Helm chart for Kubernetes
     digest: 415f9e3644d00cf4f55b98af8586c24271cfcc26f4b6ea7cb37b3698536b477b
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.109.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.109.tgz
     version: 0.1.109
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.170077+01:00"
+    created: "2024-02-23T11:04:49.961471+01:00"
     description: A Helm chart for Kubernetes
     digest: 29e6699c809283b3ee52ce0e74de0c40b808789147f7a88e5a514f1e80c7a8af
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.108.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.108.tgz
     version: 0.1.108
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.169311+01:00"
+    created: "2024-02-23T11:04:49.960511+01:00"
     description: A Helm chart for Kubernetes
     digest: a2c660e8d735aff5018a5cdf24119dfd87071b0c7ea913075fe3cff5554f53f5
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.107.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.107.tgz
     version: 0.1.107
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.168505+01:00"
+    created: "2024-02-23T11:04:49.959656+01:00"
     description: A Helm chart for Kubernetes
     digest: 2abf11d51b2258ea6c5f9fb2da1f4b34038cbec346dc3d32f70335b27faa8996
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.106.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.106.tgz
     version: 0.1.106
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.167202+01:00"
+    created: "2024-02-23T11:04:49.958774+01:00"
     description: A Helm chart for Kubernetes
     digest: ca59156216d771828d9b6a1c7c1a63e1f513cb099109ea6bab842d290426e81c
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.105.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.105.tgz
     version: 0.1.105
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.16636+01:00"
+    created: "2024-02-23T11:04:49.956723+01:00"
     description: A Helm chart for Kubernetes
     digest: b63acfc751068bb93da551aa00713e6f177b24b7949943d1071f1d94ad0b0329
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.104.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.104.tgz
     version: 0.1.104
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.165342+01:00"
+    created: "2024-02-23T11:04:49.95577+01:00"
     description: A Helm chart for Kubernetes
     digest: 2d9ed375616cb058ab17e34f3c97a3d94e8d96040209caefce3b48a8918e7a46
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.103.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.103.tgz
     version: 0.1.103
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.164211+01:00"
+    created: "2024-02-23T11:04:49.954844+01:00"
     description: A Helm chart for Kubernetes
     digest: 3f701e66d6f6ef5612fe96bf3b5f5c993526ea325491d717d51e6a6094c7e54a
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.102.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.102.tgz
     version: 0.1.102
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.163083+01:00"
+    created: "2024-02-23T11:04:49.953823+01:00"
     description: A Helm chart for Kubernetes
     digest: 92b94e8cac2ce1f4d0e2bf62d17ea3cf50b49504ce0764bb793a9da4807245a7
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.101.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.101.tgz
     version: 0.1.101
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.162052+01:00"
+    created: "2024-02-23T11:04:49.952753+01:00"
     description: A Helm chart for Kubernetes
     digest: 62bfa25dba475cff8e92540b7d9e767d7f4383be472b45fa87c140bc7167f720
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.100.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.100.tgz
     version: 0.1.100
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.24578+01:00"
+    created: "2024-02-23T11:04:50.054066+01:00"
     description: A Helm chart for Kubernetes
     digest: b687a62ef37d77041155befc4ba2a4643923f51f64d20f6e0b6b45292bcc12bb
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.99.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.99.tgz
     version: 0.1.99
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.244925+01:00"
+    created: "2024-02-23T11:04:50.052692+01:00"
     description: A Helm chart for Kubernetes
     digest: 2198b7e180422b3391712e0d9cd1c9dde1d82f6c298eba3994d60f227426cf08
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.98.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.98.tgz
     version: 0.1.98
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.244096+01:00"
+    created: "2024-02-23T11:04:50.051506+01:00"
     description: A Helm chart for Kubernetes
     digest: 7866ffafc9c6bdaf11f762e9f40e6cb165e2b235f1f5dadfc52b6d7a15dceff9
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.97.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.97.tgz
     version: 0.1.97
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.243125+01:00"
+    created: "2024-02-23T11:04:50.049907+01:00"
     description: A Helm chart for Kubernetes
     digest: 6fe8d4883a93b7f209a8131e7502a661dc473a5a40696d69e1a80640f83bc454
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.96.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.96.tgz
     version: 0.1.96
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.241994+01:00"
+    created: "2024-02-23T11:04:50.048859+01:00"
     description: A Helm chart for Kubernetes
     digest: cac4e55ea6f5b3952a82dbec2758b9f375b127575b3339e2a39d358b00a610f4
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.95.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.95.tgz
     version: 0.1.95
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.241228+01:00"
+    created: "2024-02-23T11:04:50.047325+01:00"
     description: A Helm chart for Kubernetes
     digest: ceb22483f631fab74d66389991c12afe48fd59d70805fbc309d58cbce5b29739
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.94.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.94.tgz
     version: 0.1.94
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.240452+01:00"
+    created: "2024-02-23T11:04:50.046428+01:00"
     description: A Helm chart for Kubernetes
     digest: caece8f386152b534947d22174ebab49fac2dc503d253f62d36ababe4005ad34
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.93.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.93.tgz
     version: 0.1.93
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.23964+01:00"
+    created: "2024-02-23T11:04:50.04553+01:00"
     description: A Helm chart for Kubernetes
     digest: 6d5b0ae9bdfd558333fc60dce31b3106a8b4e0448c0bd1773b0f574af5f80c19
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.92.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.92.tgz
     version: 0.1.92
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.238848+01:00"
+    created: "2024-02-23T11:04:50.044663+01:00"
     description: A Helm chart for Kubernetes
     digest: 10d13566cd8fec26baa2cc4380fb3a0f6e6013684d5f8b622ce20b3ff5b7d536
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.91.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.91.tgz
     version: 0.1.91
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.238044+01:00"
+    created: "2024-02-23T11:04:50.043745+01:00"
     description: A Helm chart for Kubernetes
     digest: e6bd2622c604a0bfacb421fa3947168e140b772d1f970344084290752e4f0d2d
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.90.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.90.tgz
     version: 0.1.90
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.236483+01:00"
+    created: "2024-02-23T11:04:50.042146+01:00"
     description: A Helm chart for Kubernetes
     digest: 89f106d0fdd8276bf899fbe2460f342a315b6b54dd53eb00b7fc05f7637cd158
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.89.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.89.tgz
     version: 0.1.89
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.23561+01:00"
+    created: "2024-02-23T11:04:50.041215+01:00"
     description: A Helm chart for Kubernetes
     digest: 06947abb88e98642945db448a6130594a69f77ab4229d0cce3e61053270fa504
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.88.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.88.tgz
     version: 0.1.88
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.234868+01:00"
+    created: "2024-02-23T11:04:50.039441+01:00"
     description: A Helm chart for Kubernetes
     digest: d81f2e9dfa856e60748c12de536952389e207f316532fa5af0ca584ae03b8edd
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.87.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.87.tgz
     version: 0.1.87
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.234082+01:00"
+    created: "2024-02-23T11:04:50.038438+01:00"
     description: A Helm chart for Kubernetes
     digest: 077c306ba2da51c3c9deb369da0ece05686f3787f213286119cccec88e00bc7f
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.86.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.86.tgz
     version: 0.1.86
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.233342+01:00"
+    created: "2024-02-23T11:04:50.037389+01:00"
     description: A Helm chart for Kubernetes
     digest: 55d9c80c24f861bdaa83d9c5816b23aa56b293030ceffa076d271c2c6d12e00e
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.85.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.85.tgz
     version: 0.1.85
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.232597+01:00"
+    created: "2024-02-23T11:04:50.03655+01:00"
     description: A Helm chart for Kubernetes
     digest: 467ce0ba47dcd6550e023dc692aeaf76ab8424cd33e89d9df791966295efe383
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.84.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.84.tgz
     version: 0.1.84
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.231823+01:00"
+    created: "2024-02-23T11:04:50.03572+01:00"
     description: A Helm chart for Kubernetes
     digest: 0d5d93505d20103e57df19c455b3469cf53664316abc58c303f3c624cfcad7aa
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.83.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.83.tgz
     version: 0.1.83
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.231069+01:00"
+    created: "2024-02-23T11:04:50.034859+01:00"
     description: A Helm chart for Kubernetes
     digest: 7c2c61f74f76eabfbec4b33f383d53e0c1098344abb7ce311e561a5b35402b03
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.82.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.82.tgz
     version: 0.1.82
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.229883+01:00"
+    created: "2024-02-23T11:04:50.033929+01:00"
     description: A Helm chart for Kubernetes
     digest: 08d10fef1e360ff23ca65268df0002ac7e3dd932cda17b04080039c784c97b8d
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.81.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.81.tgz
     version: 0.1.81
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.229134+01:00"
+    created: "2024-02-23T11:04:50.033035+01:00"
     description: A Helm chart for Kubernetes
     digest: c90ac8920914ead1ba23b3bdc704978b41cc0ea368d1cecfb320dd5bee0c49cf
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.80.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.80.tgz
     version: 0.1.80
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.227739+01:00"
+    created: "2024-02-23T11:04:50.03102+01:00"
     description: A Helm chart for Kubernetes
     digest: ddff1fb4dcf02f2ac9d13a53b6a2fc402bf02fff86d97c14b3af762324d65802
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.79.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.79.tgz
     version: 0.1.79
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.226958+01:00"
+    created: "2024-02-23T11:04:50.03013+01:00"
     description: A Helm chart for Kubernetes
     digest: 6eceaee6ec419412289eb600926d4cdd467777224f6cc4201e4d488abd59582b
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.78.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.78.tgz
     version: 0.1.78
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.226128+01:00"
+    created: "2024-02-23T11:04:50.02924+01:00"
     description: A Helm chart for Kubernetes
     digest: 4ad0ec919ff276241b5ca57ed4effe2adbbd2676064cceb2c44a271db30c83ad
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.77.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.77.tgz
     version: 0.1.77
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.225321+01:00"
+    created: "2024-02-23T11:04:50.028137+01:00"
     description: A Helm chart for Kubernetes
     digest: aba77d0e410ce8e9d8435041951d3c03f238bcd0c183b2937b951817f81208aa
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.76.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.76.tgz
     version: 0.1.76
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.224507+01:00"
+    created: "2024-02-23T11:04:50.027171+01:00"
     description: A Helm chart for Kubernetes
     digest: c31c565a02ee683f346b16acea3cd993a6d450e70e28166d949e455325bff166
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.75.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.75.tgz
     version: 0.1.75
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.223171+01:00"
+    created: "2024-02-23T11:04:50.026265+01:00"
     description: A Helm chart for Kubernetes
     digest: e0bf825f1efab8363fcb150efd59181b59f2e9727d75fae8fd06fa6f88aa762f
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.73.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.73.tgz
     version: 0.1.73
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.222377+01:00"
+    created: "2024-02-23T11:04:50.025458+01:00"
     description: A Helm chart for Kubernetes
     digest: 0b6ada0c8457940d48e144e38d4798c4fc89362e874c9d5bebe3ce9c43f43bc7
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.72.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.72.tgz
     version: 0.1.72
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.221586+01:00"
+    created: "2024-02-23T11:04:50.023994+01:00"
     description: A Helm chart for Kubernetes
     digest: 7a7533a0f5cc125f3d9020024c7a3839406e8d0d4e930d7211186be005008519
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.71.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.71.tgz
     version: 0.1.71
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.22074+01:00"
+    created: "2024-02-23T11:04:50.023217+01:00"
     description: A Helm chart for Kubernetes
     digest: 56e3fae6a683504fdd8fbfdfca5f4c75d3aaf70bec3b4b385e2f400b78f64fda
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.70.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.70.tgz
     version: 0.1.70
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.21928+01:00"
+    created: "2024-02-23T11:04:50.021619+01:00"
     description: A Helm chart for Kubernetes
     digest: dae6596df4a07ba929d79fe784b43552a827a2033e5d45735db09e732d1f27a3
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.69.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.69.tgz
     version: 0.1.69
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.218518+01:00"
+    created: "2024-02-23T11:04:50.020694+01:00"
     description: A Helm chart for Kubernetes
     digest: 2a6f283cf72e8c5de7370d7071ceebff0b7b9063746824509fc7d8189704fbd8
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.68.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.68.tgz
     version: 0.1.68
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.217771+01:00"
+    created: "2024-02-23T11:04:50.01983+01:00"
     description: A Helm chart for Kubernetes
     digest: 243bfc06db65ef7c841d1b3fea297a965194ed217542f84d7e4bf2e23548264f
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.67.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.67.tgz
     version: 0.1.67
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.216773+01:00"
+    created: "2024-02-23T11:04:50.018821+01:00"
     description: A Helm chart for Kubernetes
     digest: 74f39813b99bea2c04b6915173993ac0f37a11ce95ccb365f329056589e38097
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.66.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.66.tgz
     version: 0.1.66
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.216038+01:00"
+    created: "2024-02-23T11:04:50.017911+01:00"
     description: A Helm chart for Kubernetes
     digest: 743356340cad25764389278f179bf748db9f53f8003e0a16bd2e294326950c99
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.65.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.65.tgz
     version: 0.1.65
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.215318+01:00"
+    created: "2024-02-23T11:04:50.016639+01:00"
     description: A Helm chart for Kubernetes
     digest: b871f019cae98e0f22c0d9d9316be4d31c47403df30c57d21a9acaa7bc6e0969
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.64.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.64.tgz
     version: 0.1.64
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.214615+01:00"
+    created: "2024-02-23T11:04:50.015889+01:00"
     description: A Helm chart for Kubernetes
     digest: 4d65bb3986fa3dfdce0a67246df21256cb7df44b71da9901c4214a6300599dfe
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.63.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.63.tgz
     version: 0.1.63
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.213908+01:00"
+    created: "2024-02-23T11:04:50.015111+01:00"
     description: A Helm chart for Kubernetes
     digest: 777beb1815440341e142c499187bd8a5a5924dab73151f817406c512ab7280c2
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.62.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.62.tgz
     version: 0.1.62
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.213234+01:00"
+    created: "2024-02-23T11:04:50.014403+01:00"
     description: A Helm chart for Kubernetes
     digest: 64b0af61297c8ef0f8267aebbac3a07ec18a866ea9febe23c92ac187047c6002
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.61.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.61.tgz
     version: 0.1.61
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.212583+01:00"
+    created: "2024-02-23T11:04:50.013607+01:00"
     description: A Helm chart for Kubernetes
     digest: fb6af9dfb41633dc5c362f11c20db270137014c56dd69a3b3e9b6f90a71dad2b
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.60.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.60.tgz
     version: 0.1.60
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.211356+01:00"
+    created: "2024-02-23T11:04:50.012316+01:00"
     description: A Helm chart for Kubernetes
     digest: 5e28f21af2fe1abc12a3bbad3c822394e4bb8cd24dfd2c92c0f8cae16e94e349
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.59.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.59.tgz
     version: 0.1.59
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.210284+01:00"
+    created: "2024-02-23T11:04:50.011599+01:00"
     description: A Helm chart for Kubernetes
     digest: 3aa7bf6b7394434c9929054ee0c43cf1f9eeefa4fa8e1c838530da673399b59d
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.58.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.58.tgz
     version: 0.1.58
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.209621+01:00"
+    created: "2024-02-23T11:04:50.010907+01:00"
     description: A Helm chart for Kubernetes
     digest: 19e512fa39c2eae1cfb349273919738b1f8b37659ebb2a5dfe740c56695b2fe5
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.55.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.55.tgz
     version: 0.1.55
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.209003+01:00"
+    created: "2024-02-23T11:04:50.010243+01:00"
     description: A Helm chart for Kubernetes
     digest: 16bd302b983e7c4ffdd02bda86d07dade69adf87e97ffcb5b2c3b2deeea3bab9
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.54.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.54.tgz
     version: 0.1.54
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.208384+01:00"
+    created: "2024-02-23T11:04:50.008977+01:00"
     description: A Helm chart for Kubernetes
     digest: deaaf77d82063049141799e1929a5bbfc8ae5ba3841af833b799185b600063d2
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.53.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.53.tgz
     version: 0.1.53
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.207765+01:00"
+    created: "2024-02-23T11:04:50.008277+01:00"
     description: A Helm chart for Kubernetes
     digest: 6ba657737e80209778527a12b27df3e4e813486c933889ad726eb6687d8d7726
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.52.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.52.tgz
     version: 0.1.52
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.206936+01:00"
+    created: "2024-02-23T11:04:50.007446+01:00"
     description: A Helm chart for Kubernetes
     digest: 0a390b1c16dcddc940c795ae6fa79d0903d09beb14fee28d26f883f4c304bef6
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.51.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.51.tgz
     version: 0.1.51
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.206232+01:00"
+    created: "2024-02-23T11:04:50.006653+01:00"
     description: A Helm chart for Kubernetes
     digest: d1eef0dd5e5a6649d7fd3e9f181631ae8e95b1109d7de3e55f131420c54b65ad
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.50.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.50.tgz
     version: 0.1.50
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.205065+01:00"
+    created: "2024-02-23T11:04:50.005249+01:00"
     description: A Helm chart for Kubernetes
     digest: f376b276c7e4bc1e49c1adadcf1f797d73babdae0b084ea353e22d97ec6bd772
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.49.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.49.tgz
     version: 0.1.49
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.204043+01:00"
+    created: "2024-02-23T11:04:50.00453+01:00"
     description: A Helm chart for Kubernetes
     digest: fdd6c64777fff8edbe5a974aa692ed9715516f78d8aed26981381fb764b4dd78
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.47.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.47.tgz
     version: 0.1.47
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.203421+01:00"
+    created: "2024-02-23T11:04:50.003679+01:00"
     description: A Helm chart for Kubernetes
     digest: b9ded540908f1b9c1501497b1a08e67ab242abe6150cb582e3a1c8340c5fecf9
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.46.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.46.tgz
     version: 0.1.46
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.202808+01:00"
+    created: "2024-02-23T11:04:50.002823+01:00"
     description: A Helm chart for Kubernetes
     digest: 8ca44dfb8f499972287ccfcba90f756b1473e3760fe30a828f0e82927b2a2a68
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.45.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.45.tgz
     version: 0.1.45
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.202131+01:00"
+    created: "2024-02-23T11:04:50.001361+01:00"
     description: A Helm chart for Kubernetes
     digest: 3c59fd4a5ab8937042738ea5f75297b83c9714958e382a86d841eb5e281dbdf7
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.44.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.44.tgz
     version: 0.1.44
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.201448+01:00"
+    created: "2024-02-23T11:04:50.000734+01:00"
     description: A Helm chart for Kubernetes
     digest: 056da819d3fbde13f6ac720e03921f16a8fa0d714dc6a5bdaf4219d42dc00cee
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.43.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.43.tgz
     version: 0.1.43
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.200757+01:00"
+    created: "2024-02-23T11:04:50.000123+01:00"
     description: A Helm chart for Kubernetes
     digest: 3be18d775278a19bea562b6e51d241e84554a5bf632137b809c01aaf8de612cc
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.42.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.42.tgz
     version: 0.1.42
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.200086+01:00"
+    created: "2024-02-23T11:04:49.999394+01:00"
     description: A Helm chart for Kubernetes
     digest: 62328e4bda0a58b9337380cff58edece815e65e341ddad7ae06f6610ffa3907d
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.41.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.41.tgz
     version: 0.1.41
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.199365+01:00"
+    created: "2024-02-23T11:04:49.998775+01:00"
     description: A Helm chart for Kubernetes
     digest: 3f26c57596a113719903de71b59337ae62a6bbede3616cac0b19b67ed0b23c10
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.40.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.40.tgz
     version: 0.1.40
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.197522+01:00"
+    created: "2024-02-23T11:04:49.997504+01:00"
     description: A Helm chart for Kubernetes
     digest: 3b993855d0389d9b75cad859bc36db68be9013f4785857931263c73ce46c192c
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.38.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.38.tgz
     version: 0.1.38
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.196822+01:00"
+    created: "2024-02-23T11:04:49.99664+01:00"
     description: A Helm chart for Kubernetes
     digest: 9feb1868c88400d954e52d4a485de24b8b0ad548d4f5727d8add6a10c86fb534
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.37.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.37.tgz
     version: 0.1.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.196194+01:00"
+    created: "2024-02-23T11:04:49.996023+01:00"
     description: A Helm chart for Kubernetes
     digest: 41d2395deed33e417c1931371383d055ff712d11bad2843df28bc34f267e8818
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.36.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.36.tgz
     version: 0.1.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.195624+01:00"
+    created: "2024-02-23T11:04:49.994719+01:00"
     description: A Helm chart for Kubernetes
     digest: 98ee2c7283a2d7d80cb010d8473b784de0e85ff5e31b40c12931bd9c68967f36
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.35.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.35.tgz
     version: 0.1.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.195071+01:00"
+    created: "2024-02-23T11:04:49.994127+01:00"
     description: A Helm chart for Kubernetes
     digest: 8f31c142c6592bbc8fb58cdd57df4ebec9124cad08fb9891b4446a4f78a2ceaa
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.34.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.34.tgz
     version: 0.1.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.194544+01:00"
+    created: "2024-02-23T11:04:49.993573+01:00"
     description: A Helm chart for Kubernetes
     digest: 5d664adfba5fa4dce3e2926029cc1273132cfe4bd8597e3028df1c1fbf86c2d8
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.33.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.33.tgz
     version: 0.1.33
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.193904+01:00"
+    created: "2024-02-23T11:04:49.992797+01:00"
     description: A Helm chart for Kubernetes
     digest: f7773440724dd9f1ff16b5192788cfca5bd97508c308bfc7e1e64e3ca000c37a
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.32.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.32.tgz
     version: 0.1.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.193345+01:00"
+    created: "2024-02-23T11:04:49.992236+01:00"
     description: A Helm chart for Kubernetes
     digest: e4d670f4845afdd77f0850364c1b4d4cc3e78513fb3bf44d9ad0b71355287593
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.31.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.31.tgz
     version: 0.1.31
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.192787+01:00"
+    created: "2024-02-23T11:04:49.991668+01:00"
     description: A Helm chart for Kubernetes
     digest: a36f43b0ee51502329150c02582fe7f38e3318b6eeca8c3c3db4d52a1d6cdb43
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.30.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.30.tgz
     version: 0.1.30
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.191114+01:00"
+    created: "2024-02-23T11:04:49.990381+01:00"
     description: A Helm chart for Kubernetes
     digest: 96fa70c989b1b50a6511b847b94d6cfd5b49f31185ada88b9dbde180404bdc00
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.29.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.29.tgz
     version: 0.1.29
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.190586+01:00"
+    created: "2024-02-23T11:04:49.988739+01:00"
     description: A Helm chart for Kubernetes
     digest: be4fcd95596dacead83c988a7a88e30bc27c1ba62a4e5ebc9894b11883346961
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.28.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.28.tgz
     version: 0.1.28
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.19004+01:00"
+    created: "2024-02-23T11:04:49.98685+01:00"
     description: A Helm chart for Kubernetes
     digest: 26836eb3168d4d838497300dda46f136b9f3eb36d025c5a9856ded7261502fcd
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.27.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.27.tgz
     version: 0.1.27
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.189302+01:00"
+    created: "2024-02-23T11:04:49.98601+01:00"
     description: A Helm chart for Kubernetes
     digest: fd10311398b2cb81faee4b1a01dc04789dac00db1badd2092098dab00952c682
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.26.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.26.tgz
     version: 0.1.26
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.188688+01:00"
+    created: "2024-02-23T11:04:49.985353+01:00"
     description: A Helm chart for Kubernetes
     digest: 69d1b4dcfa53c2273ff3a2204cce12369dc3c9bbfe7bcafea521fbce951599c0
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.24.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.24.tgz
     version: 0.1.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.188123+01:00"
+    created: "2024-02-23T11:04:49.984745+01:00"
     description: A Helm chart for Kubernetes
     digest: 3ddb2aac90f3059df9da0b772a5bb4bdb901c57e42f895d6973137e0358983f1
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.23.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.23.tgz
     version: 0.1.23
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.187439+01:00"
+    created: "2024-02-23T11:04:49.984042+01:00"
     description: A Helm chart for Kubernetes
     digest: 8e0f0a22f9a66f21a9633fadcf7a2e9dded9af9f37ca0574fab55048a1e3303c
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.22.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.22.tgz
     version: 0.1.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.186905+01:00"
+    created: "2024-02-23T11:04:49.983455+01:00"
     description: A Helm chart for Kubernetes
     digest: f6bf2a10e686e0f36a0942db3e094fa12435301bb7f0435200d18a6ba20611ef
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.20.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.20.tgz
     version: 0.1.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.185438+01:00"
+    created: "2024-02-23T11:04:49.982151+01:00"
     description: A Helm chart for Kubernetes
     digest: ea959aa3b6212cbd2bfddddb39e13986842e06279155638887f226c01931ed9a
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.19.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.19.tgz
     version: 0.1.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.184917+01:00"
+    created: "2024-02-23T11:04:49.981292+01:00"
     description: A Helm chart for Kubernetes
     digest: 542ec6e38ed8cd259597ed77d08408f6cfcd200353c3d076a2571a7fcef3ff4c
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.18.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.18.tgz
     version: 0.1.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.184377+01:00"
+    created: "2024-02-23T11:04:49.979489+01:00"
     description: A Helm chart for Kubernetes
     digest: 1f2957b483d7340a69daea985d39b36e61fd6f0ba555b99594ae14c63bbf71b7
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.17.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.183868+01:00"
+    created: "2024-02-23T11:04:49.978824+01:00"
     description: A Helm chart for Kubernetes
     digest: a2a183e343128bb949ae7a18215af6b7d7439e48502c84c221924d6fc9ec9854
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.16.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.183379+01:00"
+    created: "2024-02-23T11:04:49.977949+01:00"
     description: A Helm chart for Kubernetes
     digest: cfcf7f7a92f5f3e2ed0774a891fc864a4db013bd083befd8b209412dac2f73e7
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.15.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.182886+01:00"
+    created: "2024-02-23T11:04:49.977195+01:00"
     description: A Helm chart for Kubernetes
     digest: d75cfc71fc82d022ad1335c104cdfd79d112ba282a0ad78c014a6c10fa1058fa
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.14.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.14.tgz
     version: 0.1.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.182285+01:00"
+    created: "2024-02-23T11:04:49.976583+01:00"
     description: A Helm chart for Kubernetes
     digest: a1c62a7b9b8355e1ad99ecfd1d340f9929960932b95108c4eebe2fdd1f360327
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.13.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.179575+01:00"
+    created: "2024-02-23T11:04:49.974063+01:00"
     description: A Helm chart for Kubernetes
     digest: 37365020a5d46a7cd8dcfa3f6e321651245b5a4de00bd3098ef51a8a57af827a
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.12.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.171508+01:00"
+    created: "2024-02-23T11:04:49.963553+01:00"
     description: A Helm chart for Kubernetes
     digest: c235ce5dd1eb736e0c45ac07628333f69913c5c464cc7f30664e2aaefe91f519
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.11.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.161142+01:00"
+    created: "2024-02-23T11:04:49.951795+01:00"
     description: A Helm chart for Kubernetes
     digest: 25e18e6c3005d3baa814d920fba0d00e8bcf5b6eb3ae8e8a60fb1795efebbc92
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.10.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.237234+01:00"
+    created: "2024-02-23T11:04:50.042895+01:00"
     description: A Helm chart for Kubernetes
     digest: 60aa8e9357e3585c4db4d6985758c1384ea8359f104b8e57f750342b6869a3aa
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.9.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.228358+01:00"
+    created: "2024-02-23T11:04:50.031553+01:00"
     description: A Helm chart for Kubernetes
     digest: 82dd0c59b810956b905ced5f2a6028740859326bfe2a656c8434df124e161f5f
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.8.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.219831+01:00"
+    created: "2024-02-23T11:04:50.022175+01:00"
     description: A Helm chart for Kubernetes
     digest: 0c9ec7b07f26d04bd624b729a62e9eb0a870a5f1a369d83910d56632afe2ce4e
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.7.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.211927+01:00"
+    created: "2024-02-23T11:04:50.012803+01:00"
     description: A Helm chart for Kubernetes
     digest: 6eaed265ff022f755c642afbb0cde2bb4f84f70011b9dca45d5a8de52c97e1ce
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.6.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.205605+01:00"
+    created: "2024-02-23T11:04:50.005976+01:00"
     description: A Helm chart for Kubernetes
     digest: bae3541d5a417836a9a82940e10a61fcc08b8512c0416d0e4f2720ebd54d05a2
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.5.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.198104+01:00"
+    created: "2024-02-23T11:04:49.998162+01:00"
     description: A Helm chart for Kubernetes
     digest: 1a70324513d5dd0a599f4087623ae031e23cba0979de57b0a0e142962dc6e4ab
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.4.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.191648+01:00"
+    created: "2024-02-23T11:04:49.991028+01:00"
     description: A Helm chart for Kubernetes
     digest: bc89d70f9eeb1bb09da66761e15b8156c2ee835ff81bd89f6b3ac5e064915968
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.3.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.186262+01:00"
+    created: "2024-02-23T11:04:49.982787+01:00"
     description: A Helm chart for Kubernetes
     digest: 1d82ea016141e6cec48483f829d20845217b07891dbbe03adff1da2664070a91
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.2.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.160113+01:00"
+    created: "2024-02-23T11:04:49.951156+01:00"
     description: A Helm chart for Kubernetes
     digest: fdfc313093c0d74f23fb33e53cea5898dd22c86e4a85a5112c6ed8e5937fefe1
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.159534+01:00"
+    created: "2024-02-23T11:04:49.950473+01:00"
     description: A Helm chart for Kubernetes
     digest: d8e35c1f4d2f05258288ec6f18b21eed5de8fe9f92eb6fd702f99f5600e8ed08
     name: wordpress-bedrock
     urls:
-    - https://helm-repo.aws-arvato.com/wordpress-bedrock-0.1.0.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/wordpress-bedrock-0.1.0.tgz
     version: 0.1.0
   yves:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.246018+01:00"
+    created: "2024-02-23T11:04:50.054391+01:00"
     description: A Helm chart for Kubernetes
     digest: c98a71346eeaa69fcc40026fe10eef2ae19fe088833bd45089486b4d4d1b9ae3
     name: yves
     urls:
-    - https://helm-repo.aws-arvato.com/yves-0.0.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/yves-0.0.1.tgz
     version: 0.0.1
   zed:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-23T11:03:09.246237+01:00"
+    created: "2024-02-23T11:04:50.054877+01:00"
     description: A Helm chart for Kubernetes
     digest: 8dfa9a5a742b4f4257512a9015b45c5d11857cc9f46361bd551b8c9b6c919d99
     name: zed
     urls:
-    - https://helm-repo.aws-arvato.com/zed-0.0.1.tgz
+    - https://arvatoaws-labs.github.io/helm-repo/zed-0.0.1.tgz
     version: 0.0.1
-generated: "2024-02-23T11:03:09.093214+01:00"
+generated: "2024-02-23T11:04:49.881106+01:00"
