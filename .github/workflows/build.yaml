@@ -38,6 +38,7 @@ jobs:
         helm3 repo index . --url https://arvatoaws-labs.github.io/helm-repo/ --merge index.yaml
     - name: Upload
       run: |
+        git config --global --add safe.directory /__w/helm-repo/helm-repo
         git add *.tgz
         git add index.yaml
         git commit -m "Updated Helm Charts from GitHub Actions"
