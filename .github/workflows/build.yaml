@@ -1,0 +1,49 @@
+name: generate-helm-repo
+
+on:
+  schedule:
+  - cron: '30 13 * * 3'
+  # push:
+  #   branches:
+  #   - main
+  #   - master
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  generate-helm-repo:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/arvatoaws-labs/helm-pipeline/release:latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+    - uses: actions/checkout@v4
+    - name: Clone
+      run: |
+        mkdir -p stable
+        cd stable
+        for CHART in wordpress wordpress-bedrock argosinterface alertmanager-sns-forwarder lamp
+        do
+          git clone https://github.com/arvatoaws-labs/$CHART-helm-chart.git $CHART
+        done
+    - name: Package
+      run: |
+        for CHART in wordpress wordpress-bedrock argosinterface alertmanager-sns-forwarder lamp
+        do
+          helm3 package -u ./stable/$CHART
+        done
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        role-to-assume: arn:aws:iam::177865682799:role/GitHubActionsHelmRepo
+        aws-region: eu-central-1
+    - name: Index
+      run: |
+        helm3 repo index . --url https://arvatoaws-labs.github.io/helm-repo/ --merge index.yaml
+    - name: Upload
+      run: |
+        git add *.tgz
+        git add index.yaml
+        git commit -m "Updated Helm Charts from GitHub Actions"
+        git push
