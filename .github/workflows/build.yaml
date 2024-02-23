@@ -39,6 +39,8 @@ jobs:
     - name: Upload
       run: |
         git config --global --add safe.directory /__w/helm-repo/helm-repo
+        git config --global user.email "patrick.robinson@bertelsmann.de"
+        git config --global user.name "Patrick Robinson"
         git add *.tgz
         git add index.yaml
         git commit -m "Updated Helm Charts from GitHub Actions"
